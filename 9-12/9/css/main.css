@@ -1,0 +1,71 @@
+body{
+    background-color: aqua;
+}
+.background{
+    background-color: white;
+    height: 600px;
+    width: 600px;
+    border-radius: 0px 80px ;
+    margin-left: 30%;
+    margin-top: 200px;
+display: inline-block;
+}
+.h1{
+    color: aqua;
+    text-align: center;
+    margin-top: 150px;
+}
+.username{
+
+    border: none;
+    margin-left: 80px;
+}
+.line{
+    width: 450px;
+
+}
+.password{
+margin-top: 30px;
+margin-left: 80px;
+   border: none;
+   
+
+}
+.checkbox{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+.btn{
+ margin-top: 30px;
+ margin-left: 100px;
+ height: 40px;
+ width: 400px;
+ border: none;
+background-color: aqua;
+border-radius: 30px;
+font-family: sans-serif;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: blue;
+}
+.btn:active{
+    background-color: dodgerblue;
+    box-shadow: 0px 0px 0px 4px gray;
+}
+
+.sign_up{
+color: aqua;
+margin-top: 15px;
+margin-left: 5px;
+}
+.div1{
+    display: flex;
+    margin-left:  200px;
+}
+.reset{
+ margin-left: 250px;
+ border: none;
+ color: aqua;
+ background-color: red;
+}

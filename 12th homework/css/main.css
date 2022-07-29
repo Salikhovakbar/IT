@@ -1,0 +1,469 @@
+header{
+    width: 1200px;
+    height: 49px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.logo{
+margin-left: 120px;
+}
+header > ul{
+    list-style: none;
+    display: flex;
+
+}
+header > ul > li{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+margin-left: 40px;
+text-align: center;
+
+color: #000000;
+}
+.hero_box{
+    margin-top: 125px;
+    display: flex;
+    margin-left: 120px;
+}
+.content{
+    width: 727px;
+    height: 385px;
+}
+.account1{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 145%;
+/* or 26px */
+
+letter-spacing: 1px;
+
+color: #000000;
+}
+.hero_text{
+    font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 56px;
+line-height: 145%;
+/* or 81px */
+
+
+color: #000000;
+}
+.under_text{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 155%;
+/* or 31px */
+opacity: 0.6;
+
+color: #000000;
+}
+.content > button{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 155%;
+/* identical to box height, or 31px */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 24px;
+gap: 10px;
+
+width: 282px;
+height: 63px;
+cursor: pointer;
+background: #FFB21E;
+border-radius: 8px;
+border: none;
+
+color: #FFFFFF;
+}
+.content > button:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
+.photo{
+    width: 296px;
+    height: 296px;
+}
+.main_photo{
+width: 304px;
+    height: 304px;
+    margin-left: 197px;
+
+
+}
+.inside_box{
+    display: flex;
+}
+.photo2{
+    margin-bottom: 30px;
+
+}
+.third_photo{
+    display: flex;
+}
+.photo3{
+    position: relative;
+    margin-top: 80px;
+}
+.btn2{
+    width: 158px;
+height: 25px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 155%;
+/* identical to box height, or 25px */
+position: absolute;
+margin-top: 210px;
+margin-left: -80px;
+border: none;
+color: #000000;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.btn3{
+    position: absolute;
+    margin-top: 275px;
+    margin-left: 175px;
+    width: 134px;
+    height: 25px;
+    border: none;
+    font-family: 'DM Sans';
+    cursor: pointer;
+}
+.second_photo{
+    display: flex;
+}
+.about_us{
+    display: flex;
+    width: 1128px;
+height: 463px;
+margin-left: 155px;
+margin-top: 169px;
+}
+.photo_about{
+    width: 357px;
+    height: 341px;
+}
+
+.about{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 145%;
+/* identical to box height, or 29px */
+
+letter-spacing: 1px;
+
+color: #000000;
+}
+.line1{
+    width: 60px;
+    height: 1px;
+    color: aqua;
+
+    background-color: aqua;
+}
+.main_text{
+    font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 145%;
+/* or 93px */
+
+
+color: #000000;
+}
+.under_main{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 155%;
+/* or 31px */
+opacity: 0.6;
+
+color: #000000;
+}
+.offer{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+border: none;
+color: #1254FF;
+background: none;
+cursor: pointer;
+}
+a{
+    text-decoration: none;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    margin-left: 40px;
+    text-align: center;
+    
+    color: #000000;
+}
+.Facilities{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 145%;
+/* identical to box height, or 29px */
+
+
+letter-spacing: 1px;
+
+color: #000000;
+
+}
+.advantages{
+    font-family: 'Questrial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 155%;
+    /* or 99px */
+    
+    text-align: center;
+
+    color: #000000;
+}
+.main_box{
+    width: 1200px;
+    height: 207px;
+    display: flex;
+    margin-top: 56px;
+margin-left: 120px;
+justify-content: space-around;
+margin-right: 120px;
+
+}
+
+.paragraph{
+text-align: center;
+margin-top: 259px;
+}
+.paragraph1{
+    width: 312px;
+    height: 84px;
+}
+.topic{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 145%;
+/* identical to box height, or 35px */
+
+
+color: #000000;
+}
+.simple_text{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+
+/* or 28px */
+
+
+color: #000000;
+}
+.btn1{
+    position: absolute; 
+    width: 225px;
+height: 25px;
+background: none;
+border: none;
+margin-right: 100px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 155%;
+/* identical to box height, or 25px */
+margin-top: 50px;
+margin-left:    100px;
+color: #000000;
+
+background-color: white;
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.first_photo{
+    display: flex;
+}
+.spaces{
+    margin-top: 200px;
+}
+.theme{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 145%;
+/* identical to box height, or 29px */
+
+
+letter-spacing: 1px;
+
+color: #000000;
+
+}
+.space{
+text-align: center;
+margin-top: 200px;
+}
+.line2{
+    margin-bottom: 16px;
+}
+.main_table{
+    display: flex;
+    justify-content: space-around;
+    width: 1200px;
+    height: 750px;
+    background-color: rgb(250, 250, 250);
+    margin-left: 120px;
+}
+.table1{
+    width: 270px;
+    height: 641px;
+    background: #FFF0D2;
+border-radius: 16px;
+border-radius: 16px;
+
+}
+.office{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.buisness{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 155%;
+/* or 28px */
+
+text-align: center;
+
+color: #000000;
+
+opacity: 0.6;
+}
+ul{
+    list-style: none
+}
+li{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 155%;
+/* identical to box height, or 28px */
+
+
+color: #000000;
+}
+.inside_table{
+    display: flex;
+}
+.quest{
+    width: 16px;
+    height: 12px;
+    margin-top: 8px;
+    margin-right: 20px;
+}
+.offer1{
+
+
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+background: #FFB21E;
+border-radius: 8px;
+/* identical to box height */
+padding: 16px 64px 16px 24px;
+border: none;
+color: #FFFFFF;
+position: relative;
+}
+.vector1{
+    position: absolute;
+padding-left: 140px;
+padding-top: 21px;
+color: white;
+cursor: pointer;
+}
+
+.btn_one{
+    display: flex;
+margin-left: 39px;
+margin-top: 120px;
+}
+.table2{
+    width: 270px;
+    height: 641px;
+    background-color: white;
+    line-height: 10px;
+
+}
+.btn_two{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.vector{
+    width: 21px;
+    height: 13px;
+    margin-top: 10px;
+}
+.btn_three{
+    display: flex;
+    justify-content: center;
+margin-top: 120px;
+}
+.btn_four{
+    display: flex;
+    justify-content: center;
+    margin-top: 145px;
+}

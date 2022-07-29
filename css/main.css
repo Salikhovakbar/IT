@@ -1,0 +1,49 @@
+body{
+    background-color: pink;
+}
+.Main-part{
+color: white;
+font-size: 70px;
+font-weight: 700;
+text-align: center;
+}
+.paragraph-one{
+    color: black;
+font-size: 70px;
+font-weight: 700;
+font-family: sans-serif;
+background-color: white;
+}
+.paragraph-two{
+    color: palevioletred;
+    background-color: white;
+}
+.paragraph-three{
+    color: palevioletred;
+    background-color: white;
+}
+li{
+    background-color: #fff;
+    list-style: none;
+}
+.first{
+    color: black;
+    font-size: 70px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.zero{
+    background-color: white;
+}
+.color-one{
+    color: palevioletred;
+}
+.second{
+    color: black;
+    font-size: 70px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.color-two{
+    color: palevioletred;
+}

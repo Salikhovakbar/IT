@@ -1,0 +1,44 @@
+.email{
+    color: rgb(230, 227, 227);
+    width: 200px;
+    height: 20px;
+}
+.btn{
+    margin-left: -50px;
+}
+:root{
+    --main-size: 300px;
+    --main-color: blue; 
+ }
+.box{
+    width: var(--main-size);
+    height: var(--main-size);
+    background-color: var(--main-color);
+}
+/* table{
+    border-collapse: collapse;
+    cursor: pointer;
+}
+td{
+    border: 1px solid black;
+    padding: 10px 20px;
+}
+th{
+
+
+    padding: 20px;
+} */
+td{
+    padding: 30px 40px;
+
+}
+th{
+    color: white;
+    padding: 30px;
+    text-align: left;
+}
+table{
+    cursor: pointer;
+    border: 1px dotted black;
+margin: auto;
+}

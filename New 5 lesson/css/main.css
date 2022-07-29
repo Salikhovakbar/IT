@@ -1,0 +1,353 @@
+.ull{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 512px;
+}
+.lii{
+    display: inline-block;
+    margin-right: 35px;
+}
+.text{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 56px;
+/* or 117% */
+color: #000000;
+list-style: none;
+display: top;
+}
+.mainpart{
+margin-bottom: 150px;
+display: inline-block;
+vertical-align: top;
+margin-top: 191px;
+}
+.main{
+    display: inline-block;
+    vertical-align: top;
+}
+.picture{
+vertical-align: top;
+  display: inline-block;
+margin-top: 84px;
+}
+.divv{
+    margin-top: 135px;
+    margin-left: 6px;
+    margin-right: 107px;
+}
+.text1{
+    list-style: none;
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 32px;
+/* or 152% */
+margin-top: 25px;
+
+color: #7D7987;
+
+}
+.text0{
+    vertical-align: top;
+    display: inline-block;
+}
+.button{
+    left: 15.38%;
+right: 72.12%;
+top: 10.95%;
+bottom: 88.09%;
+
+background: #458FF6;
+border-radius: 55px;
+}
+.text2{
+margin-top: 45px;
+    background-color: #458FF6;
+    left: 15.38%;
+right: 72.12%;
+top: 10.95%;
+bottom: 88.09%;
+border-radius: 55px;
+margin-left: 246px;
+font-family: sans-serif;
+width: 200px;
+height: 60px;
+left: 246px;
+top: 640px;
+}
+.introduction{
+    text-align: center;
+    margin-top: 171px;
+}
+.line{
+    background-color: #000000;
+    border-radius: 5px;
+    width: 56px;
+    height: 2px;
+    margin: auto;
+}
+.text3{
+    text-align: center;
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+margin-top: 33px;
+text-align: center;
+
+color: #7D7987;
+}
+.picture2{
+    margin-top: 132px;
+    margin-left: 381px;
+}
+.pictures{
+    width: 350px;
+height: 354px;
+left: 344px;
+top: 1280px;
+display: inline-block;
+background: #FFFFFF;
+}
+.picture2{
+    display: inline-block;
+    margin-left: 80px;
+    margin-bottom: 70px;
+    vertical-align: top;
+
+}
+.text3{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 56px;
+/* identical to box height, or 233% */
+
+
+color: #000000;
+list-style: none;
+}
+.text4{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    list-style: none;
+    
+    color: #7D7987;
+     
+}
+.card{
+    display: inline-block;
+    margin-left: 200px;
+    vertical-align: top;
+    margin-top: 78px;
+}
+.card2{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 78px;
+}
+.card3{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 78px;
+}
+.Online{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 56px;
+/* identical to box height, or 233% */
+
+
+color: #000000;
+}
+.Online1{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+
+color: #7D7987;
+
+}
+.Online2{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    /* identical to box height, or 233% */
+    
+    
+    color: #000000;
+    
+}
+.Online3{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+
+color: #7D7987;
+}
+.Online4{
+    margin-top: 83px;
+    margin-left: 200px;
+    display: inline-block;
+}
+.text-one{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 56px;
+/* identical to box height, or 233% */
+
+
+color: #000000;
+}
+.text-two{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+
+color: #7D7987;
+}
+.Online5{
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 83px;
+    margin-left: 70px;
+}
+.text-three{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 56px;
+/* identical to box height, or 233% */
+
+
+color: #000000;
+}
+.text-four{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+
+color: #7D7987;
+}
+.Online6{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 83px;
+    margin-left: 200px;
+}
+.text-five{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 56px;
+/* identical to box height, or 233% */
+
+
+color: #000000;
+
+}
+.text-six{
+    ont-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+
+color: #7D7987;
+}
+.class{
+  text-align: center;
+}
+.final{
+border-radius: 50px;
+height: 56px;
+width: 200px;
+border: 5px solid dodgerblue;
+color: dodgerblue;
+
+}
+.final:hover{
+    background-color: #458FF6;
+    cursor: pointer;
+}
+.final:focus{
+    box-shadow: 0px 0px 0px 7px dodgerblue;
+}
+.photo{
+
+    left: 8.44%;
+    right: 50.94%;
+    top: 39.49%;
+    bottom: 52.39%;
+
+}
+.h-one{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 56px;
+/* or 156% */
+margin-bottom: 216px;
+
+color: #000000;
+}
+.small_text{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+display: inline-block;
+color: #7D7987;
+
+}
+.h_one{
+    display: inline-block;
+    margin-left: 100px;
+}
+.main_picture{
+    display: inline-block;
+}
+.h-two{
+ display: inline;
+ margin-left: ;
+
+}

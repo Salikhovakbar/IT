@@ -1,0 +1,47 @@
+h1{
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 50px;
+}
+.text{
+    margin-left: 50px;
+    font-size: 30px;
+}
+.text2{
+    margin-left: 50px;
+    width: 250px;
+}
+.gender{
+    margin-left: 50px;
+}
+.curcle{
+    width: 20px;
+    height: 20px;
+  
+}
+.text1{
+    font-size: 20px;
+}
+.divv{
+    margin-left: 50px;
+}
+.options{
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+}
+.input1{
+    width: 400px;
+    height: 300px;
+    line-height: normal;
+}
+.butn{
+    height: 30px;
+    width: 60px;
+}
+.bunt:active{
+    background-color: gray;
+}
+.bunt:hover{
+    cursor: pointer;
+}
